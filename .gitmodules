@@ -1,0 +1,3 @@
+[submodule "housekeeping-scripts"]
+	path = housekeeping-scripts
+	url = git@github.com:tlevine/housekeeping-scripts.git
