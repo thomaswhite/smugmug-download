@@ -1,3 +1,9 @@
 [submodule "housekeeping-scripts"]
 	path = housekeeping-scripts
 	url = git@github.com:tlevine/housekeeping-scripts.git
+[submodule "smugmug-to-flickr"]
+	path = smugmug-to-flickr
+	url = git@github.com:tlevine/smugmug-to-flickr.git
+[submodule "Smuglr"]
+	path = Smuglr
+	url = git@github.com:tlevine/Smuglr.git

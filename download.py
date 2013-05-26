@@ -1,4 +1,6 @@
 #!/usr/bin/env python2
+import os
+
 from smugpy import SmugMug
 
 API_KEY = os.environ['SMUGMUG_API_KEY']
